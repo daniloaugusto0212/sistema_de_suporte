@@ -4,5 +4,5 @@ Necessário instalação do phpmailer via composer
 
 $composer require phpmailer/phpmailer
 
-Alterar configurações de envio de -email no arquivo index.php
+Alterar configurações de envio de -email no arquivo pages/views/home.php
 
