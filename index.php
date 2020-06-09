@@ -5,7 +5,7 @@
     define('PASSWORD','681015');
 
     $autoload = function($class){
-        include($class.'php');
+        include($class.'.php');
     };
 
     spl_autoload_register($autoload);
